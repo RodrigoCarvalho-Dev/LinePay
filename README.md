@@ -143,6 +143,24 @@ vamos também instalar os tipos do Node.js
 yarn add @types/node
 ```
 
+Depois nossa aplicação irá ficar assim quando colocarmos em um arquivo ./src/server.js
+
+<img width="716" height="431" alt="image" src="https://github.com/user-attachments/assets/e81790b6-eee5-4135-9a01-5d30b5b04019" />
+
+depois rodaremos o bun assim
+
+```bash
+bun run src/server.js
+```
+
+e irá retornar
+
+```terminal
+running on the port http://localhost:3000
+```
+
+
+
 
 
 
