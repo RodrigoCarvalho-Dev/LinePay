@@ -1,5 +1,9 @@
 # LinePay - Mais que um négocio, uma solução Node.js
 
+## introdução
+
+Olá sou Rodrigo Carvalho👋
+
 O objetivo desse projeto é mostrar como uma solução empresarial pode ser vendida, e além disso mostrar, que o principal, como a tecnologia do Node.js do Javascript consegue ser uma ótima alternativa para pequenas e até mesmo, GIGANTESCAS empresas
 
 Esse meu pensamento começou quando dei uma olhada nisso aqui:
@@ -51,3 +55,16 @@ Vou além de mostrar como o Node.js NATIVO consegue ser uma excelente ferramenta
 
 Além disso vou usar MUITA IA (Inteligência Artificial) por que além de ser uma maravilhosa ferramenta, também está na moda 😁
 
+
+## Capítulo 1: O que vou fazer nessa aplicação?
+
+Nessa aplicação vou resolver esses seguintes problemas
+
+Desafio: Idempotência e Cobranças Duplicadas em Ambientes Distribuídos
+
+"Uma análise mais técnica"
+Garantia de Entrega Exata (Exactly-Once Delivery) em Sistemas Distribuídos Baseados em Webhooks para Ambientes de Alta Confiabilidade Financeira
+
+Este projeto propõe um novo protocolo de entrega determinística de mensagens assíncronas com garantia exactly-once sobre infraestruturas baseadas em webhooks — frequentemente sujeitas a falhas, duplicações e condições de corrida. O estudo combina consensus algorithms como Raft/Paxos, técnicas de idempotency orchestration, e event sourcing para construir uma camada confiável de comunicação entre sistemas financeiros, com ênfase no ecossistema de pagamentos como Stripe, PayPal e bancos via Open Banking.
+
+Mais vou utilizar muito do Node.js nativo para fazer esse Projeto
