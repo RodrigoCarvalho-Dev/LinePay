@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "esnext",              // Versão moderna do JS
+    "module": "nodenext",            // Node.js padrão
+    "outDir": "dist",                // Pasta do JS compilado
+    "rootDir": "src",                // Pasta de origem
+    "strict": true,                  // Checagem rígida de tipos
+    "esModuleInterop": true,
+    "moduleResolution" : "nodenext",         // Import compatível com libs JS
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true
+  }
+}

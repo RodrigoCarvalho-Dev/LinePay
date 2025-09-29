@@ -121,6 +121,31 @@ Mais para a parte do deploy, vou explicar como funciona essa ferramenta.
 
 O que vou fazer em partes de negócios, vai ser pegar este problema enfrentado por empresas de pagamento e transforma-ló em um serviço B2B para mim, e com isso, provar como o ecossistema Node.js é uma ótima alternativa para resolução de problemas caso for usado da maneira correta
 
+## Como vou começar o projeto?
+
+primeiro vamos instalar tudo
+
+para o typescript
+
+```bash
+yarn add -D typescript
+```
+
+vamos inicializar o typescript
+
+```bash
+yarn add tsc --init
+```
+
+vamos também instalar os tipos do Node.js
+
+```bash
+yarn add @types/node
+```
+
+
+
+
 
 
 

@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "tsc",
+    "init-typescript": "tsc --init"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "typescript": "^5.9.2"
+  }
+}
