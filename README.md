@@ -107,6 +107,14 @@ curl -fsSL https://bun.sh/install | bash
 powershell -c "irm bun.sh/install.ps1 | iex"
 ```
 
+### Jest
+Criado para ser tudo em um, o Jest é uma biblioteca para testes JavaScript e TypeScript, tudo de testes que precisamos para o código de nossa aplicação vai ser o Jest
+
+### Docker Swarm
+Um processo de orquestração para fazermos o deploy de nossa aplicação utilizando o Docker, basicamente vamos criar um deploy aonde caso ele caia, outro já vai entrar, impossibilitando que o servidor caia de uma vez e acabe com nossa aplicação
+
+Mais para a parte do deploy, vou explicar como funciona essa ferramenta.
+
 
 
 
