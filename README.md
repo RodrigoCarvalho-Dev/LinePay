@@ -94,6 +94,24 @@ Abaixo vou listar alguns exemplos de por que utilizá-lo
 - Funciona com TypeScript para reforçar tipos e boas práticas.
 - Pode aplicar auto-fix em várias regras (eslint --fix).
 
+### Bun
+Tecnologia moderna criada a pouquíssimo tempo para runtime de TypeScript/JavaScript, "rival" do Node.js e Deno, porém nessa aplicação só vou usar para rodar os arquivos typeScript da aplicação para depois fazer o Build, pode ser usado outras tecnologias como ts-node, mas vamos utilizar está
+
+Se quiserem usar apenas rodam estes comandos
+
+```bash
+curl -fsSL https://bun.sh/install | bash
+```
+
+```powershell
+powershell -c "irm bun.sh/install.ps1 | iex"
+```
+
+
+
+
+
+
 
 
 
