@@ -1,4 +1,4 @@
-# LinePay - Mais que um négocio, uma solução
+# LinePay - Mais que um négocio, uma solução Node.js
 
 O objetivo desse projeto é mostrar como uma solução empresarial pode ser vendida, e além disso mostrar, que o principal, como a tecnologia do Node.js do Javascript consegue ser uma ótima alternativa para pequenas e até mesmo, GIGANTESCAS empresas
 
