@@ -6,7 +6,8 @@ Olá sou Rodrigo Carvalho👋
 
 O objetivo desse projeto é mostrar como uma solução empresarial pode ser vendida, e além disso mostrar, que o principal, como a tecnologia do Node.js do Javascript consegue ser uma ótima alternativa para pequenas e até mesmo, GIGANTESCAS empresas
 
-Esse meu pensamento começou quando dei uma olhada nisso aqui:
+Esse meu pensamento começou quando dei uma olhada nisso aqui
+
 <img width="719" height="285" alt="image" src="https://github.com/user-attachments/assets/5da16215-294c-44c6-be74-70ed9b655750" />
 
 Ai eu começei a dúvidar... Será mesmo que tanta gente usa esse ferramenta que é o Node.js, e pode apostar que SIM!
@@ -46,6 +47,7 @@ alguns dos exemplos de por que usar Node.js são
 - entre outras qualidades
 
 Vou mostrar um exemplo de como sua perfomance consegue ser muito boa
+
 <img width="946" height="506" alt="image" src="https://github.com/user-attachments/assets/3cb268e7-f2e4-41c5-8b1c-395957a76df2" />
 
 Consegue ser **5,31x** mais rápido que o python em criar e consegue ser **31,4x** mais rápido em listar, algo muito superior em relação a linguagem Python para back-end
