@@ -25,7 +25,8 @@ Esse problema vem mais de como o JavaScript funciona, que sinceramente chega a s
 <img width="639" height="724" alt="36716123_2077835782484342_36801779463094272_n" src="https://github.com/user-attachments/assets/d01bbe0b-6331-4a73-a0e6-33018567b193" />
 
 Simplesmente uma linguagem mal feita e criada as pressas
-Vou listar algumas dos motivos:
+
+Vou listar algumas dos motivos
 - Tipagem Fraca e Dinâmica (minha maior raiva 😤)
 - converte tipos absolutamente do nada
 - problemas de escopo (bem chato também)
@@ -36,7 +37,7 @@ Vou listar algumas dos motivos:
 
 O Node.js em si é uma excelente ferramenta quando se utilizada em 100%, ainda mais atrelada com outras tecnologias como TypeScript e libs para testes automatizados
 
-alguns dos exemplos de por que usar Node.js são:
+alguns dos exemplos de por que usar Node.js são
 - ferramentas nativas excelentes que te deixam com controle total do projeto (pode ser também um malefício dependendo da pessoa)
 - Node.js puro pode ser bem performático ( melhor que Python )
 - Ecossistema riquissímo de bibliotecas (O que pode se tornar também um problama se for mal utilizado)
@@ -68,3 +69,31 @@ Garantia de Entrega Exata (Exactly-Once Delivery) em Sistemas Distribuídos Base
 Este projeto propõe um novo protocolo de entrega determinística de mensagens assíncronas com garantia exactly-once sobre infraestruturas baseadas em webhooks — frequentemente sujeitas a falhas, duplicações e condições de corrida. O estudo combina consensus algorithms como Raft/Paxos, técnicas de idempotency orchestration, e event sourcing para construir uma camada confiável de comunicação entre sistemas financeiros, com ênfase no ecossistema de pagamentos como Stripe, PayPal e bancos via Open Banking.
 
 Mais vou utilizar muito do Node.js nativo para fazer esse Projeto
+
+entre as tecnologias a parte que vou usar seram:
+
+### TypeScript
+basicamente uma linguagem a parte do javascript que permite uma tipagem forte se for configurado da maneira certa, claro que tem suas excessões, porém já ajuda muito, oque eu recomendo é ativar o modo estrito no módulo de configuração do TypeScript
+
+```json
+
+{
+  "compilerOptions": {
+    "strict": true
+  }
+}
+
+```
+### EsLint + Prettier
+Eles basicamente vão deixar nosso código bonito, "sem" erros, entre aspas por que as vezes escapa 😋, e com um certo "padrão de projeto" para nossa aplicação
+
+Abaixo vou listar alguns exemplos de por que utilizá-lo
+- Previne erros comuns (ex.: esquecer return, usar variável não definida).
+- Força consistência no código (mesmo time ou projeto grande).
+- Integra com IDEs (VSCode, WebStorm) e exibe avisos em tempo real.
+- Funciona com TypeScript para reforçar tipos e boas práticas.
+- Pode aplicar auto-fix em várias regras (eslint --fix).
+
+
+
+
