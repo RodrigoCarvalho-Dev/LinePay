@@ -48,7 +48,7 @@ alguns dos exemplos de por que usar Node.js são
 Vou mostrar um exemplo de como sua perfomance consegue ser muito boa
 <img width="946" height="506" alt="image" src="https://github.com/user-attachments/assets/3cb268e7-f2e4-41c5-8b1c-395957a76df2" />
 
-Consegue ser 5,31x mais rápido que o python em criar e consegue ser 31,4x mais rápido em listar, algo muito superior em relação a linguagem Python para back-end
+Consegue ser **5,31x** mais rápido que o python em criar e consegue ser **31,4x** mais rápido em listar, algo muito superior em relação a linguagem Python para back-end
 
 ### O que vou mostrar aqui?
 
@@ -114,6 +114,11 @@ Criado para ser tudo em um, o Jest é uma biblioteca para testes JavaScript e Ty
 Um processo de orquestração para fazermos o deploy de nossa aplicação utilizando o Docker, basicamente vamos criar um deploy aonde caso ele caia, outro já vai entrar, impossibilitando que o servidor caia de uma vez e acabe com nossa aplicação
 
 Mais para a parte do deploy, vou explicar como funciona essa ferramenta.
+
+---
+
+O que vou fazer em partes de negócios, vai ser pegar este problema enfrentado por empresas de pagamento e transforma-ló em um serviço B2B para mim, e com isso, provar como o ecossistema Node.js é uma ótima alternativa para resolução de problemas caso for usado da maneira correta
+
 
 
 
