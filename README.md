@@ -4,7 +4,7 @@
 
 Olá sou Rodrigo Carvalho👋
 
-O objetivo desse projeto é mostrar como uma solução empresarial pode ser vendida, e além disso mostrar, que o principal, como a tecnologia do Node.js do Javascript consegue ser uma ótima alternativa para pequenas e até mesmo, GIGANTESCAS empresas
+O objetivo desse projeto é mostrar como uma solução empresarial pode ser vendida, e além disso mostrar, que o principal, como a tecnologia do Node.js do Javascript consegue ser uma ótima alternativa para pequenas e até mesmo, grandes empresas
 
 Esse meu pensamento começou quando dei uma olhada nisso aqui
 
