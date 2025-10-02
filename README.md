@@ -25,14 +25,12 @@ Esse problema vem mais de como o JavaScript funciona, que sinceramente chega a s
 
 <img width="639" height="724" alt="36716123_2077835782484342_36801779463094272_n" src="https://github.com/user-attachments/assets/d01bbe0b-6331-4a73-a0e6-33018567b193" />
 
-Simplesmente uma linguagem mal feita e criada as pressas
-
-Vou listar algumas dos motivos
-- Tipagem Fraca e Dinâmica (minha maior raiva 😤)
+JavaScript foi muito importante na criaçâo dos primeiros sites da internet, porém como novas ferramentas como Node.js, vemos como javascript era limitado, citando algumas questões 
+- Tipagem Fraca e Dinâmica 
 - converte tipos absolutamente do nada
-- problemas de escopo (bem chato também)
+- problemas de escopo
 - Callback hell
-- Performance e entre outros (muitos aliás)
+- Performance e entre outros
 
 ### Por que o Node.js pode ser uma ótima ferramenta?
 
@@ -40,7 +38,7 @@ O Node.js em si é uma excelente ferramenta quando se utilizada em 100%, ainda m
 
 alguns dos exemplos de por que usar Node.js são
 - ferramentas nativas excelentes que te deixam com controle total do projeto (pode ser também um malefício dependendo da pessoa)
-- Node.js puro pode ser bem performático ( melhor que Python )
+- Node.js puro pode ser bem performático
 - Ecossistema riquissímo de bibliotecas (O que pode se tornar também um problama se for mal utilizado)
 - comunidade grande de programadores
 - fácil portabilidade e manutenção
@@ -56,7 +54,7 @@ Consegue ser **5,31x** mais rápido que o python em criar e consegue ser **31,4x
 
 Vou além de mostrar como o Node.js NATIVO consegue ser uma excelente ferramenta, que é possível resolver problemas reais de négocios como o Stripe e vender isso como um produto.
 
-Além disso vou usar MUITA IA (Inteligência Artificial) por que além de ser uma maravilhosa ferramenta, também está na moda 😁
+Além disso, irei utilizar algorítmos de i.a para utilizar influenciando o mercado para manter ganhos máximos e perdas minimaa, para impulsoniar as vendas do projeto. Porque além de ser uma maravilhosa ferramenta, também está na moda 😁
 
 
 ## Capítulo 1: O que vou fazer nessa aplicação?
@@ -64,6 +62,12 @@ Além disso vou usar MUITA IA (Inteligência Artificial) por que além de ser um
 Nessa aplicação vou resolver esses seguintes problemas
 
 Desafio: Idempotência e Cobranças Duplicadas em Ambientes Distribuídos
+
+Operação unária
+Uma operação unária f, isto é, uma função de um conjunto S em si mesmo, é idempotente se para todo x em S,
+
+f(f(x)) = f(x).
+Em particular, a função identidade idS, definida por idS(x) = x, é idempotente, bem como a função constante Kc, em que c é um elemento de S, definida por Kc(x) = c.
 
 "Uma análise mais técnica"
 Garantia de Entrega Exata (Exactly-Once Delivery) em Sistemas Distribuídos Baseados em Webhooks para Ambientes de Alta Confiabilidade Financeira
